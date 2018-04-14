@@ -1,6 +1,6 @@
 # hello-world
-testaillaan githubin käyttöä
+Testaillaan githubin käyttöä
 Lisätään yksi rivi
-kaikenlaista
-sisältöä
-kello on 8:21 launatai-aamuna
+Kaikenlaista sisältöä
+Kello on 8:21 lauantai-aamuna
+Tämä riittää tältä erää
